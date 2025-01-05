@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException when using the sum() method on a null list.  The Groovy code in `bug.groovy` shows the issue, while `bugSolution.groovy` provides a robust solution that handles null input.
